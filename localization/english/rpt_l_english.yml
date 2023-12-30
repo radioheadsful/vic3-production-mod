@@ -1,0 +1,15 @@
+﻿l_english:
+  pmg_arms_production: "Arms Production"
+  pm_arms_basic_production: "Basic Arms Production"
+  pm_arms_extended_production: "Extended Arms Production"
+  pm_arms_mass_production: "Mass Arms Production"
+
+  pmg_artillery_production: "Artillery Production"
+  pm_artillery_basic_production: "Basic Artillery Production"
+  pm_artillery_extended_production: "Extended Artillery Production"
+  pm_artillery_mass_production: "Mass Artillery Production"
+
+  pmg_munitions_production: "Basic Munitions Production"
+  pm_munitions_basic_production: "Basic Munitions Production"
+  pm_munitions_extended_production: "Extended Munitions Production"
+  pm_munitions_mass_production: "Mass Munitions Production"
